@@ -2033,9 +2033,9 @@ settings:
   -
     id: anp-background-image-dark
     title: Custom Background Image URL
-    description: 'Formatted as url("https://link-to-image.png")'
+    description: 'Formatted as url("https://i.imgur.com/DjCqwKc.jpeg")'
     type: variable-text
-    default: url("https://link-to-image.png")
+    default: url("https://i.imgur.com/DjCqwKc.jpeg")
   -
     id: anp-custom-bg-brightness-dark
     title: Background brightness
